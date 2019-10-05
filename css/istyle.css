@@ -1,0 +1,18 @@
+body{
+    font-family: 'Raleway', sans-serif;
+    background-image: url(k_on21_anime-wallpaper-2560x1440.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+header{
+    background-color: #238ac5;
+    margin: -8px;
+    padding: 4px;
+}
+header a{
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 20px;
+    user-select: none;
+}
